@@ -1,0 +1,15 @@
+com\mycompany\savannamartretailsystem\exception\InvalidSalesDataException.class
+com\mycompany\savannamartretailsystem\service\LoyaltyCalculator.class
+com\mycompany\savannamartretailsystem\app\Question3App.class
+com\mycompany\savannamartretailsystem\app\Question2App.class
+com\mycompany\savannamartretailsystem\model\OrderStatus.class
+com\mycompany\savannamartretailsystem\Main.class
+com\mycompany\savannamartretailsystem\app\Question1App.class
+com\mycompany\savannamartretailsystem\exception\InvalidOrderException.class
+com\mycompany\savannamartretailsystem\model\Category.class
+com\mycompany\savannamartretailsystem\model\Order.class
+com\mycompany\savannamartretailsystem\service\Sorter.class
+com\mycompany\savannamartretailsystem\model\SalesData.class
+com\mycompany\savannamartretailsystem\model\Store.class
+com\mycompany\savannamartretailsystem\service\SalesAnalytics.class
+com\mycompany\savannamartretailsystem\model\RetailOrder.class
